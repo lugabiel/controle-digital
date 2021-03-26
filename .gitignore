@@ -74,3 +74,10 @@ typings/
 
 # FuseBox cache
 .fusebox/
+TP2/slprj/sim/varcache/TP2_varying_antigo/checksumOfCache.mat
+TP2/slprj/sim/varcache/TP2_varying_antigo/tmwinternal/simulink_cache.xml
+TP2/slprj/sim/varcache/TP2_varying_antigo/varInfo.mat
+TP2/saida-modelo-controlado-ss.fig
+TP2/TP2.asv
+TP2/TP2_varying_antigo.slx.autosave
+TP2/TP2_varying_antigo.slxc
